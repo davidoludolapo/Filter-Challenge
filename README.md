@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Deployed link of the project
+https://filterchallenge.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
